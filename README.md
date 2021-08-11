@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @milosmerdovic
 - 👀 I’m interested in developing web apps.
 - 🌱 I’m currently learning java programming language and it's frameworks, sql and javascript. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 milosmerdovic/milosmerdovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
