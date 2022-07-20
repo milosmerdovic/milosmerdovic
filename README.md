@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milosmerdovic
+- 👋 Hi, I’m Milos Merdovic
 - 👀 I’m interested in developing web apps.
 - 🌱 I’m currently learning java programming language and it's frameworks, sql and javascript. 
 
